@@ -46,8 +46,10 @@ Follow these steps to utilize this project:
     ```bash
     streamlit run app.py
     ```
-5. To close the app from the terminal, press Ctrl+C.
-
+5. To close the app from the terminal, 
+    ```bash
+     press Ctrl+C.
+    ```
 ----
 <h2> Demo </h2>
 
