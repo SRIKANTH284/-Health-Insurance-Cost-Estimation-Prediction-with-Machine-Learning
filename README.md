@@ -33,8 +33,6 @@ Follow these steps to utilize this project:
 1. **Software Installation**: Begin by installing the necessary software packages:
    ```bash
    pip install -r requirements.txt
-
-
     
 2. Cloning the repository:- 
     ```bash
