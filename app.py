@@ -6,7 +6,7 @@ import numpy as np
 st.markdown(
     """
     <div>
-        <center><h1>Medical Cost Predictor</h1></center>
+        <center><h1>Health Insurance Cost Estimation(Prediction)</h1></center>
     </div>
     """,
     unsafe_allow_html=True,
