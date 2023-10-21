@@ -12,7 +12,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 st.write("### Information of the beneficiary")
-model = pickle.load(open("Model/model.pkl", "rb"))
+model = pickle.load(open("Model/model.pkl", "rb")).
 
 input = []
 # Age
