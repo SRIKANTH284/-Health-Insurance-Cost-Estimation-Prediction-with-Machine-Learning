@@ -59,5 +59,6 @@ try:
     if st.button("Predict"):
         p = model.predict([input])
         st.success(f"The estimated medical cost is ${round(float(p),2)}")
+        st.balloons()  # Add balloons for a celebratory effect
 except:
     st.error("Please try again")
