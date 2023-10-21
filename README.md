@@ -38,7 +38,7 @@ Follow these steps to utilize this project:
     
 2. Cloning the repository:- 
     ```bash
-    git clone https://github.com/SRIKANTH284/Medical-Cost-Predictor-app-using-machine-learning.git
+    git clone https://github.com/SRIKANTH284/-Health-Insurance-Cost-Estimation-Prediction-with-Machine-Learning.git
     ```
 3. Change the directory:-
     ```bash
